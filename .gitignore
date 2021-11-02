@@ -1,0 +1,7 @@
+/node_modules
+/package-lock.json
+/public/*
+!/public/index.html
+!/public/manifest.json
+!/public/robots.txt
+/.eslintcache
